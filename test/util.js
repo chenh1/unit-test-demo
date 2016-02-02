@@ -1,7 +1,7 @@
 var expect = require('chai').expect;
 
 
-describe('utils.js', function() {
+describe('util.js', function() {
 
 
 
